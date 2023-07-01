@@ -192,7 +192,7 @@
 ||hm.baidu.com^
 ||https://app-measurement.com/sdk-exp^
 ||hwcdn.net^
-||i.ytimg.com^
+@@||i.ytimg.com^
 ||iadsdk.apple.com^
 ||imasdk.googleapis.com^
 ||img-taboola.com^
@@ -256,7 +256,7 @@
 ||rutarget.ru^
 ||s-static.ak.facebook.com.edgekey.net^
 ||s.pinimg.com^
-||s.ytimg.com^
+@@||s.ytimg.com^
 ||sac-h-ct-m-fbx.fbsbx.com.online-metrix.net^
 ||salesloft.com^
 ||sb.scorecardresearch.com^
