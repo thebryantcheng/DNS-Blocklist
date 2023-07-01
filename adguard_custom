@@ -59,8 +59,8 @@
 ||74.119.76.0/22^
 ||81.96.84.178^
 ||aax-us-iad.amazon.com^
-||abs-0.twimg.com^
-||abs.twimg.com^
+@@||abs-0.twimg.com^
+@@||abs.twimg.com^
 ||abtasty.com^
 ||ad.atdmt.com^
 ||ad.doubleclick.net^
@@ -302,7 +302,7 @@
 ||surveysupport.kingsleyportal.com^
 ||syndication.twitter.com^
 ||t.appsflyer.com^
-||t.co^
+@@||t.co^
 ||t.hsms06.com^
 ||t.yesware.com^
 ||taboola.com^
