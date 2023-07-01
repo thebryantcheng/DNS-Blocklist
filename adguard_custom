@@ -1,9 +1,15 @@
 ! Title: AdGuard - Custom
 
+@@||31.13.67.16/4^
+@@||abs-0.twimg.com^
+@@||abs.twimg.com^
+@@||i.ytimg.com^
 @@||instagram.com^
 @@||linkedin.com^
 @@||messenger.com^
 @@||pinterest.com^
+@@||s.ytimg.com^
+@@||t.co^
 @@||whatsapp.com^
 ||*list-manage.com*^
 ||103.4.96.0/22^
@@ -23,7 +29,6 @@
 ||31.13.64.0/18^
 ||31.13.64.0/19^
 ||31.13.67.0/24^
-@@||31.13.67.16/4^
 ||31.13.67.17/4^
 ||31.13.67.35/4^
 ||31.13.69.0/24^
@@ -61,8 +66,6 @@
 ||74.119.76.0/22^
 ||81.96.84.178^
 ||aax-us-iad.amazon.com^
-@@||abs-0.twimg.com^
-@@||abs.twimg.com^
 ||abtasty.com^
 ||ad.atdmt.com^
 ||ad.doubleclick.net^
@@ -70,6 +73,7 @@
 ||adblade.com^
 ||adhigh.net^
 ||adnxs.com^
+||ads-api.twitter.com^
 ||ads.linkedin.com^
 ||ads.mopub.com^
 ||ads.nexage.com^
@@ -194,7 +198,6 @@
 ||hm.baidu.com^
 ||https://app-measurement.com/sdk-exp^
 ||hwcdn.net^
-@@||i.ytimg.com^
 ||iadsdk.apple.com^
 ||imasdk.googleapis.com^
 ||img-taboola.com^
@@ -258,7 +261,6 @@
 ||rutarget.ru^
 ||s-static.ak.facebook.com.edgekey.net^
 ||s.pinimg.com^
-@@||s.ytimg.com^
 ||sac-h-ct-m-fbx.fbsbx.com.online-metrix.net^
 ||salesloft.com^
 ||sb.scorecardresearch.com^
@@ -304,7 +306,6 @@
 ||surveysupport.kingsleyportal.com^
 ||syndication.twitter.com^
 ||t.appsflyer.com^
-@@||t.co^
 ||t.hsms06.com^
 ||t.yesware.com^
 ||taboola.com^
@@ -336,4 +337,3 @@
 ||yottaa.net^
 ||zemanta.com^
 ||zergnet.com^
-||ads-api.twitter.com^
