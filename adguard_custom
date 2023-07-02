@@ -3,6 +3,7 @@
 @@||31.13.67.16/4^
 @@||abs-0.twimg.com^
 @@||abs.twimg.com^
+@@||graph.amctheatres.com^
 @@||i.ytimg.com^
 @@||instagram.com^
 @@||linkedin.com^
@@ -69,7 +70,6 @@
 ||abtasty.com^
 ||ad.atdmt.com^
 ||ad.doubleclick.net^
-||ad.doubleclick.net^
 ||adblade.com^
 ||adhigh.net^
 ||adnxs.com^
@@ -78,7 +78,6 @@
 ||ads.mopub.com^
 ||ads.nexage.com^
 ||ads.stickyadstv.com^
-||adservice.google.com^
 ||adservice.google.com^
 ||adsnative.com^
 ||adtechus.com^
@@ -100,7 +99,6 @@
 ||api.myendpoint.io^
 ||api.segment.io^
 ||app-analytics.snapchat.com^
-||app-measurement.com^
 ||app-measurement.com^
 ||app.outreach.io^
 ||app.yesware.com^
@@ -165,7 +163,6 @@
 ||facebook-web-clients.appspot.com^
 ||facebook.com^
 ||facebook.net^
-||facebook.net^
 ||fb.com^
 ||fb.me^
 ||fbcdn-profile-a.akamaihd.net^
@@ -184,12 +181,9 @@
 ||go.toutapp.com^
 ||google-analytics.com^
 ||googleadservices.com^
-||googleadservices.com^
 ||googlesyndication.com^
 ||gql-realtime.reddit.com^
 ||graph-fallback.instagram.com^
-@@||graph.amctheatres.com^
-||graph.facebook.com^
 ||graph.facebook.com^
 ||graph.instagram.com^
 ||gravatar.com^
