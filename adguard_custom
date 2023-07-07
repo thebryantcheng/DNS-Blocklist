@@ -1,17 +1,18 @@
 ! Title: AdGuard - Custom
 
+
+!||graph.amctheatres.com^
+!||instagram.com^
+!||linkedin.com^
+!||messenger.com^
+!||pinterest.com^
+!||t.co^
+!||whatsapp.com^
 @@||31.13.67.16/4^
-@@||abs-0.twimg.com^
-@@||abs.twimg.com^
-@@||graph.amctheatres.com^
-@@||i.ytimg.com^
-@@||instagram.com^
-@@||linkedin.com^
-@@||messenger.com^
-@@||pinterest.com^
-@@||s.ytimg.com^
-@@||t.co^
-@@||whatsapp.com^
+@@||fbcdn.com^
+@@||fbcdn.net^
+@@||twimg.com^
+@@||ytimg.com^
 ||*list-manage.com*^
 ||103.4.96.0/22^
 ||129.134.0.0/16^
@@ -74,6 +75,7 @@
 ||adhigh.net^
 ||adnxs.com^
 ||ads-api.twitter.com^
+||ads.*^
 ||ads.linkedin.com^
 ||ads.mopub.com^
 ||ads.nexage.com^
@@ -85,6 +87,7 @@
 ||algolia.net^
 ||amazon-adsystem.com^
 ||amplitude.com^
+||analytics.*^
 ||analytics.google.com^
 ||analytics.localytics.com^
 ||analytics.snapchat.com^
@@ -125,8 +128,6 @@
 ||cdn.nmcdn.us^
 ||chartboost.com^
 ||click.*^
-||click.americas.aesop.com^
-||click.email.bananarepublic.com^
 ||clicks.*^
 ||comscoreresearch.com^
 ||concert.io^
@@ -166,8 +167,6 @@
 ||fb.com^
 ||fb.me^
 ||fbcdn-profile-a.akamaihd.net^
-||fbcdn.com^
-||fbcdn.net^
 ||fbsbx.com^
 ||firebase.com^
 ||firebaselogging-pa.googleapis.com^
@@ -310,8 +309,9 @@
 ||tidaltv.com^
 ||tiktok.com^
 ||tiqcdn.com^
+||tr.*^
 ||tr.snapchat.com^
-||tracking*^
+||tracking.*^
 ||tracking.cirrusinsight.com^
 ||trk.*^
 ||uk01.maru-cdn.com^
