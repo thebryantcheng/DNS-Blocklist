@@ -1,9 +1,13 @@
 ! Title: Lockdown - Merged, Sorted
 
-!||31.13.67.16/4^
+
 !||instagram.com^
 !||messenger.com^
 !||whatsapp.com^
+@@||31.13.67.16/4^
+@@||31.13.67.17/4^
+@@||fbcdn.com^
+@@||fbcdn.net^
 ||103.4.96.0/22^
 ||129.134.0.0/16^
 ||157.240.0.0/16^
@@ -19,7 +23,6 @@
 ||31.13.64.0/18^
 ||31.13.64.0/19^
 ||31.13.67.0/24^
-||31.13.67.17/4^
 ||31.13.67.35/4^
 ||31.13.69.0/24^
 ||31.13.70.0/24^
@@ -110,8 +113,6 @@
 ||fb.com^
 ||fb.me^
 ||fbcdn-profile-a.akamaihd.net^
-||fbcdn.com^
-||fbcdn.net^
 ||fbsbx.com^
 ||firebase.com^
 ||firebaselogging-pa.googleapis.com^
