@@ -57,12 +57,14 @@
 !||t.co^
 !||whatsapp.com^
 @@||250analytics.americanexpress.com^
-@@||chat-e2ee-mini.facebook.com^
+@@||chat-e2ee-mini.*^
 @@||click-notification.capitalone.com^
 @@||edge-mqtt.facebook.com^
 @@||fbcdn.com^
 @@||fbcdn.net^
+@@||redditstatic.com^
 @@||rupload.facebook.com^
+@@||styles.redditmedia.com^
 @@||twimg.com^
 @@||ytimg.com^
 ||*iad.amazon.com^
@@ -251,7 +253,6 @@
 ||r3.o.lencr.org^
 ||rayjump.com^
 ||realtime.email^
-||redditstatic.com^
 ||res.servicewechat.com^
 ||revcontent.com^
 ||revjet.com^
@@ -298,7 +299,6 @@
 ||static.ak.facebook.com.edgesuite.net^
 ||static.doubleclick.net^
 ||static0.audioboom.com^
-||styles.redditmedia.com^
 ||suggestqueries.google.com^
 ||supersonic.com^
 ||supersonicads.com^
