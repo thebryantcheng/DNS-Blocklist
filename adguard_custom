@@ -57,11 +57,14 @@
 !||t.co^
 !||whatsapp.com^
 @@||250analytics.americanexpress.com^
+@@||chat-e2ee-mini.facebook.com^
+@@||click-notification.capitalone.com^
+@@||edge-mqtt.facebook.com^
 @@||fbcdn.com^
 @@||fbcdn.net^
+@@||rupload.facebook.com^
 @@||twimg.com^
 @@||ytimg.com^
-@@||click-notification.capitalone.com^
 ||*iad.amazon.com^
 ||*list-manage.com*^
 ||250analytics*^
@@ -165,8 +168,8 @@
 ||everestengagement.com^
 ||fabric.io^
 ||facebook-web-clients.appspot.com^
-!||facebook.com^
-!||facebook.net^
+||facebook.com^
+||facebook.net^
 ||fb.com^
 ||fb.me^
 ||fbcdn-profile-a.akamaihd.net^
