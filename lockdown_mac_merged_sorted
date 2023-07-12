@@ -73,7 +73,7 @@
 ||events.appsflyer.com^
 ||fabric.io^
 ||facebook-web-clients.appspot.com^
-||facebook.com^
+!||facebook.com^
 ||facebook.net^
 ||fb.com^
 ||fb.me^
@@ -138,7 +138,7 @@
 ||mazerunci.at^
 ||meccaledgy.at^
 ||mendilobo.com^
-||messenger.com^
+@@||messenger.com^
 ||mgid.com^
 ||minergate.com^
 ||mint.bitminter.com^
