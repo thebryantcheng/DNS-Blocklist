@@ -1,5 +1,6 @@
 ! Title: AdGuard - Custom
 
+
 !!!||103.4.96.0/22^
 !!!||129.134.0.0/16^
 !!!||157.240.0.0/16^
@@ -49,6 +50,7 @@
 !!!||69.63.184.0/21^
 !!!||74.119.76.0/22^
 !!!||81.96.84.178^
+!||facebook.com^
 !||graph.amctheatres.com^
 !||instagram.com^
 !||linkedin.com^
@@ -81,6 +83,7 @@
 ||adblade.com^
 ||adhigh.net^
 ||adnxs.com^
+||adobedtm.com^
 ||ads-api.twitter.com^
 ||ads.*^
 ||ads.linkedin.com^
@@ -116,6 +119,7 @@
 ||appboy.com^
 ||applovin.com^
 ||applvn.com^
+||appsflyer.com^
 ||apv-static.tldw.me^
 ||assets.pinterest.com^
 ||atdmt.com^
@@ -127,6 +131,7 @@
 ||bizibly.com^
 ||bl-1.com^
 ||bluekai.com^
+||borderfree.com^
 ||branch.io^
 ||brealtime.com^
 ||bugsnag.com^
@@ -134,9 +139,11 @@
 ||c1.wfinterface.com^
 ||cdn-settings.segment.com^
 ||cdn.nmcdn.us^
+||cedexis.net^
 ||chartboost.com^
 ||click.*^
 ||clicks.*^
+||communityrewards.me^
 ||comscoreresearch.com^
 ||concert.io^
 ||connect.facebook.net.edgekey.net^
@@ -148,6 +155,7 @@
 ||cookielaw.org^
 ||counter.tldw.me^
 ||crashlytics.com^
+||crwdctrl.net^
 ||ct-m-fbx.fbsbx.com^
 ||ct.pinterest.com^
 ||d2h8zr0m6mus4x.cloudfront.net^
@@ -168,9 +176,9 @@
 ||eventinggateway.api.intuit.com^
 ||events.appsflyer.com^
 ||everestengagement.com^
+||exacttarget.com^
 ||fabric.io^
 ||facebook-web-clients.appspot.com^
-!||facebook.com^
 ||facebook.net^
 ||fb.com^
 ||fb.me^
@@ -221,6 +229,7 @@
 ||log.pinterest.com^
 ||m.me^
 ||m6r.eu^
+||mads.amazon.com^
 ||mailstat.us^
 ||measure.chase.com^
 ||meta-api.reddit.com^
@@ -244,16 +253,19 @@
 ||outbrain.com^
 ||pieventscapture.americanexpress.com^
 ||ping.chartbeat.net^
+||pixel-library.pmg.com^
 ||pki-goog.l.google.com^
 ||platform.instagram.com^
 ||play.googleapis.com^
 ||plugco.in^
+||powerreviews.com^
 ||profile.ak.facebook.com.edgesuite.net^
 ||ps.w.org^
 ||qlogo.cn^
 ||r3.o.lencr.org^
 ||rayjump.com^
 ||realtime.email^
+||realtimeeventfeeds.*^
 ||res.servicewechat.com^
 ||revcontent.com^
 ||revjet.com^
@@ -296,6 +308,7 @@
 ||specless.tech^
 ||ssacdn.com^
 ||starbolt.io^
+||static-forms.klaviyo.com^
 ||static.ads-twitter.com^
 ||static.ak.facebook.com.edgesuite.net^
 ||static.doubleclick.net^
@@ -318,6 +331,7 @@
 ||tiqcdn.com^
 ||tr.*^
 ||tr.snapchat.com^
+||track.*^
 ||tracking.*^
 ||tracking.cirrusinsight.com^
 ||trk.*^
@@ -338,3 +352,4 @@
 ||yottaa.net^
 ||zemanta.com^
 ||zergnet.com^
+||zeronaught.com^
