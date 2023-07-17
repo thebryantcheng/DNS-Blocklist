@@ -141,8 +141,8 @@
 ||cdn.nmcdn.us^
 ||cedexis.net^
 ||chartboost.com^
-||click.*^
-||clicks.*^
+!||click.*^
+!||clicks.*^
 ||communityrewards.me^
 ||comscoreresearch.com^
 ||concert.io^
