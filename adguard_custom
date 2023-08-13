@@ -70,6 +70,7 @@
 @@||twimg.com^
 @@||ytimg.com^
 @@||media.*^
+@@||static.*^
 ||*iad.amazon.com^
 ||*list-manage.com*^
 ||250analytics*^
