@@ -69,6 +69,7 @@
 @@||styles.redditmedia.com^
 @@||twimg.com^
 @@||ytimg.com^
+@@||media.*^
 ||*iad.amazon.com^
 ||*list-manage.com*^
 ||250analytics*^
