@@ -1,4 +1,5 @@
 ! Title: AdGuard - Custom
+! Date: September 6, 2023
 
 !!!||103.4.96.0/22^
 !!!||129.134.0.0/16^
@@ -59,18 +60,23 @@
 !||whatsapp.com^
 
 
+! Facebook Trackers
+@@||chat-e2ee-mini.*^
+@@||edge-mqtt.facebook.com^
+@@||rupload.facebook.com^
+!@@||fbcdn.com^
+!@@||fbcdn.net^
+||lookaside.facebook.com^
+||netseer-ipaddr-assoc.*^
+
 !@@||static.*^
 !||click.*^
 !||clicks.*^
+||*clockom*^
 @@||250analytics.americanexpress.com^
-@@||chat-e2ee-mini.*^
 @@||click-notification.capitalone.com^
-@@||edge-mqtt.facebook.com^
-@@||fbcdn.com^
-@@||fbcdn.net^
 @@||media.*^
 @@||redditstatic.com^
-@@||rupload.facebook.com^
 @@||styles.redditmedia.com^
 @@||twimg.com^
 @@||ytimg.com^
@@ -81,7 +87,9 @@
 ||*traffic*^
 ||*event*^
 ||*engagement*^
-||*analytics*^
+||*analytic*^
+||*plus.*
+
 ||250analytics*^
 ||2leep.com^
 ||2mdn.net^
@@ -89,6 +97,7 @@
 ||aan.amazon.com^
 ||aax-us-iad.amazon.com^
 ||abtasty.com^
+||accentuate.io^
 ||ad.atdmt.com^
 ||ad.doubleclick.net^
 ||adblade.com^
@@ -178,6 +187,7 @@
 ||e.crashlytics.com^
 ||e.emails.*^
 ||e.reddit.com^
+||ecookie.nl^
 ||edgecastcdn.net^
 ||elfsightcdn.com^
 ||em.*^
@@ -201,10 +211,12 @@
 ||fitanalytics.com^
 ||flashtalking.com^
 ||flurry.com^
+||fomo.com^
 ||force.com^
 ||forter.com^
 ||g.doubleclick.net^
 ||getclicky.com^
+||gladly.com^
 ||go.rjmetrics.com^
 ||go.toutapp.com^
 ||google-analytics.com^
@@ -221,6 +233,8 @@
 ||hm.baidu.com^
 ||https://app-measurement.com/sdk-exp^
 ||hwcdn.net^
+||hubt.*^
+||i.mol.im^
 ||iadsdk.apple.com^
 ||imasdk.googleapis.com^
 ||img-taboola.com^
@@ -246,7 +260,9 @@
 ||mailstat.us^
 ||measure.chase.com^
 ||meta-api.reddit.com^
+||metric.gstatic.com^
 ||mgid.com^
+||micpn.com^
 ||moatads.com^
 ||mob.com^
 ||mobile-service.segment.com^
@@ -260,6 +276,7 @@
 ||notanimage.com^
 ||nr-data.net^
 ||ocsp.pki.goog^
+||ocsp.digicert.com^
 ||omtrdc.net^
 ||online-metrix.net^
 ||openx.net^
@@ -275,6 +292,7 @@
 ||powerreviews.com^
 ||profile.ak.facebook.com.edgesuite.net^
 ||ps.w.org^
+||quantcast.com^
 ||qlogo.cn^
 ||r3.o.lencr.org^
 ||rayjump.com^
@@ -282,6 +300,7 @@
 ||realtimeeventfeeds.*^
 ||res.servicewechat.com^
 ||revcontent.com^
+||revenuecat.com^
 ||revjet.com^
 ||richmetrics.com^
 ||rs-stripe.com^
@@ -306,6 +325,7 @@
 ||sdk.iad-05.braze.com^
 ||sdk.iad-06.braze.com^
 ||sdk.iad-08.braze.com^
+||sdk.postscript.io^
 ||segment.io^
 ||sentry.io^
 ||sessions.bugsnag.com^
@@ -322,6 +342,7 @@
 ||specless.tech^
 ||ssacdn.com^
 ||starbolt.io^
+||static.klaviyo.com^
 ||static-forms.klaviyo.com^
 ||static.ads-twitter.com^
 ||static.ak.facebook.com.edgesuite.net^
@@ -356,14 +377,17 @@
 ||umeng.com^
 ||umengcloud.com^
 ||unityads.unity3d.com^
+||unpkg.com^
 ||urbanairship.com^
 ||usnotifier.blahfaw.com^
 ||uuidksinc.net^
 ||via.intercom.io^
+||viafoura.net^
 ||voicefive.com^
 ||volvelle.tech^
 ||voodoo-analytics.io^
 ||vungle.com^
+||webtags.*^
 ||web.frontapp.com^
 ||wistia.net^
 ||yottaa.net^
