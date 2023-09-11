@@ -59,7 +59,6 @@
 !||t.co^
 !||whatsapp.com^
 
-
 ! Facebook Trackers
 @@||chat-e2ee-mini.*^
 @@||edge-mqtt.facebook.com^
@@ -68,13 +67,14 @@
 !@@||fbcdn.net^
 ||lookaside.facebook.com^
 ||netseer-ipaddr-assoc.*^
+||gateway.instagram.com^
+||gateway.facebook.com^
+||web.facebook.com^
 
 !@@||static.*^
 !||click.*^
 !||clicks.*^
 ||*clockom*^
-@@||250analytics.americanexpress.com^
-@@||click-notification.capitalone.com^
 @@||media.*^
 @@||redditstatic.com^
 @@||styles.redditmedia.com^
@@ -89,6 +89,30 @@
 ||*engagement*^
 ||*analytic*^
 ||*plus.*
+||clientstream*^
+
+! Single Use
+@@||250analytics.americanexpress.com^
+@@||click-notification.capitalone.com^
+||hbc.com^
+||zopim.com^
+||turnto.com^
+||medallia.com^
+||fillr.com^
+||split.io^
+||s7d1.scene7.com^
+||s7d9.scene7.com^
+||usebutton.com^
+||slackb.com^
+||imrworldwide.com^
+||click.spe.ometria.email^
+||scripts.dailymail.co.uk^
+||opecloud.com^
+||micpn.com^
+||opecloud.com^
+||shoppinggives.com^
+||klaviyo.com^
+||msmetrics.ws.sonos.com^
 
 ||250analytics*^
 ||2leep.com^
@@ -275,8 +299,8 @@
 ||nosto.com^
 ||notanimage.com^
 ||nr-data.net^
-||ocsp.pki.goog^
-||ocsp.digicert.com^
+!||ocsp.pki.goog^
+!||ocsp.digicert.com^
 ||omtrdc.net^
 ||online-metrix.net^
 ||openx.net^
