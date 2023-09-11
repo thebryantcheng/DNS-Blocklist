@@ -1,5 +1,5 @@
 ! Title: AdGuard - Custom
-! Date: September 6, 2023
+! Date: September 11, 2023
 
 !!!||103.4.96.0/22^
 !!!||129.134.0.0/16^
@@ -309,7 +309,7 @@
 ||pieventscapture.americanexpress.com^
 ||ping.chartbeat.net^
 ||pixel-library.pmg.com^
-||pki-goog.l.google.com^
+!||pki-goog.l.google.com^
 ||platform.instagram.com^
 ||play.googleapis.com^
 ||plugco.in^
