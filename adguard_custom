@@ -320,7 +320,7 @@
 ||metric.gstatic.com^
 ||metric.gstatic.com^$important
 ||mgid.com^
-||mi.*^$important
+!||mi.*^$important
 ||micpn.com^
 ||mining-technology.com^$important
 ||moatads.com^
