@@ -1,5 +1,5 @@
 ! Title: AdGuard - Custom
-! Date: September 26, 2023
+! Date: November 21, 2023
 
 !!!||103.4.96.0/22^
 !!!||129.134.0.0/16^
@@ -267,7 +267,11 @@
 ||force.com^
 ||forter.com^
 ||g.doubleclick.net^
-||geocodeservice.costco.com^$important
+
+! Costco warehouse suggestions
+@@||geocodeservice.costco.com^$important
+@@||dev.virtualearth.net^$important
+
 ||getclicky.com^
 ||gladly.com^
 ||go.rjmetrics.com^
