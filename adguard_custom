@@ -1,5 +1,5 @@
 ! Title: AdGuard - Custom
-! Date: November 21, 2023
+! Date: January 1, 2024
 
 !!!||103.4.96.0/22^
 !!!||129.134.0.0/16^
@@ -50,14 +50,14 @@
 !!!||69.63.184.0/21^
 !!!||74.119.76.0/22^
 !!!||81.96.84.178^
-!||facebook.com^
 !||graph.amctheatres.com^
-!||instagram.com^
 !||linkedin.com^
-!||messenger.com^
 !||pinterest.com^
 !||t.co^
-!||whatsapp.com^
+@@||redditstatic.com^
+@@||styles.redditmedia.com^
+@@||twimg.com^
+@@||ytimg.com^
 
 ! Facebook Trackers
 @@||chat-e2ee-mini.*^
@@ -70,16 +70,19 @@
 !||gateway.instagram.com^
 !||gateway.facebook.com^
 ||web.facebook.com^
+!||facebook.com^
+!||instagram.com^
+!||messenger.com^
+!||pinterest.com^
+!||t.co^
+!||whatsapp.com^
 
+! E-mail, Trackers, Clicks, Analytics
 !@@||static.*^
 !||click.*^
 !||clicks.*^
 ||*clockom*^
 @@||media.*^
-@@||redditstatic.com^
-@@||styles.redditmedia.com^
-@@||twimg.com^
-@@||ytimg.com^
 ||*iad.amazon.com^
 ||*list-manage.com*^
 ||*metric*^
@@ -90,6 +93,26 @@
 ||*analytic*^
 ||*plus.*
 ||clientstream*^
+||em.*^
+||email.*^
+||e.emails.*^
+||tr.*^
+||track-eu.*^
+||track.*^
+||tracker*^
+||tracking.*^
+||tracks.*^
+||trk.*^
+!||link.*^
+!||links.*^
+||ads.*^
+||analytics.*^
+||mailgun.org^
+||everestengagement.com^
+||ps.w.org^
+||marketingcloudapis.com^
+||streams.bestbuy.com^
+||smetrics.*^
 
 ! Single Use
 @@||250analytics.americanexpress.com^
@@ -115,8 +138,6 @@
 ||msmetrics.ws.sonos.com^
 
 
-!||link.*^
-!||links.*^
 !||ocsp.digicert.com^
 !||ocsp.pki.goog^
 !||pki-goog.l.google.com^
@@ -137,7 +158,6 @@
 ||adnxs.com^
 ||adobedtm.com^
 ||ads-api.twitter.com^
-||ads.*^
 ||ads.linkedin.com^
 ||ads.mopub.com^
 ||ads.nexage.com^
@@ -152,7 +172,6 @@
 ||amazon-adsystem.com^
 ||amplitude.com^
 ||ampproject.org^$important
-||analytics.*^
 ||analytics.google.com^
 ||analytics.localytics.com^
 ||analytics.snapchat.com^
@@ -232,14 +251,11 @@
 ||doubleverify.com^
 ||dwgyu36up6iuz.cloudfront.net^$important
 ||e.crashlytics.com^
-||e.emails.*^
 ||e.reddit.com^
 ||ecookie.nl^
 ||ecookie.nl^$important
 ||edgecastcdn.net^
 ||elfsightcdn.com^
-||em.*^
-||email.*^
 ||engagement.feedly.com^
 ||eu.engage.app^
 ||eum-appdynamics.com^
@@ -446,16 +462,9 @@
 ||tidaltv.com^
 ||tiktok.com^
 ||tiqcdn.com^
-||tr.*^
 ||tr.snapchat.com^
-||track-eu.*^
-||track.*^
-||tracker*^
-||tracking.*^
 ||tracking.cirrusinsight.com^
-||tracks.*^
 ||trcksp.cordial.io^$important
-||trk.*^
 ||uk01.maru-cdn.com^
 ||umeng.com^
 ||umengcloud.com^
