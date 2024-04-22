@@ -1,5 +1,5 @@
 ! Title: AdGuard - Custom
-! Date: January 1, 2024
+! Date: April 21, 2024
 
 !!!||103.4.96.0/22^
 !!!||129.134.0.0/16^
@@ -88,6 +88,7 @@
 ||*metric*^
 ||*tags*^
 ||*traffic*^
+@@||*trafficmanager.net^
 ||*event*^
 ||*engagement*^
 ||*analytic*^
