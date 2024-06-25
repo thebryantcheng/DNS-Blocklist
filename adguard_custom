@@ -1,5 +1,5 @@
 ! Title: AdGuard - Custom
-! Date: April 21, 2024
+! Date: June 24, 2024
 
 !!!||103.4.96.0/22^
 !!!||129.134.0.0/16^
@@ -92,6 +92,7 @@
 ||*event*^
 ||*engagement*^
 ||*analytic*^
+||analytics.*^
 ||*plus.*
 ||clientstream*^
 ||em.*^
@@ -107,7 +108,6 @@
 !||link.*^
 !||links.*^
 ||ads.*^
-||analytics.*^
 ||mailgun.org^
 ||everestengagement.com^
 ||ps.w.org^
@@ -170,9 +170,8 @@
 ||alchemer.eu^$important
 ||algolia.net^
 ||amazon-adsystem.com^
-||amazon-adsystem.com^
 ||amplitude.com^
-||ampproject.org^$important
+!||ampproject.org^$important
 ||analytics.google.com^
 ||analytics.localytics.com^
 ||analytics.snapchat.com^
@@ -222,7 +221,7 @@
 ||chtah.com^
 ||chtah.com^$important
 ||click.promotion.bedbathandbeyond.com^$important
-||clients1.google.com^$important
+!||clients1.google.com^$important
 ||communityrewards.me^
 ||communityrewards.me^$important
 ||comscoreresearch.com^
@@ -250,6 +249,7 @@
 ||dianomi.com^
 ||dl.wechat.com^
 ||doubleverify.com^
+||doubleclick.net^
 ||dwgyu36up6iuz.cloudfront.net^$important
 ||e.crashlytics.com^
 ||e.reddit.com^
@@ -294,6 +294,7 @@
 ||go.rjmetrics.com^
 ||go.toutapp.com^
 ||google-analytics.com^
+||googleads.g.doubleclick.net^
 ||googleadservices.com^
 ||googlesyndication.com^
 ||googletagmanager.com/*=GTM-^
