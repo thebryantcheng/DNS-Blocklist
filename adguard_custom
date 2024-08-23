@@ -1,6 +1,6 @@
 ! Title: AdGuard - Custom
-! Last Modified: 2024-06-25T00:29:41+00:00
-! Version: 2024.06.24.2
+! Last Modified: 2024-08-23T07:44:06+00:00
+! Version: 2024.08/23
 
 !!!||103.4.96.0/22^
 !!!||129.134.0.0/16^
@@ -60,10 +60,13 @@
 @@||twimg.com^
 @@||ytimg.com^
 
-! Facebook Trackers
+!! Facebook Trackers
+! Essential Messenger Domains
 @@||chat-e2ee-mini.*^
 @@||edge-mqtt.facebook.com^
 @@||rupload.facebook.com^
+@@||dgw.*.facebook.com^
+
 !@@||fbcdn.com^
 !@@||fbcdn.net^
 ||lookaside.facebook.com^
@@ -86,18 +89,17 @@
 @@||media.*^
 ||*iad.amazon.com^
 ||*list-manage.com*^
-||*metric*^
 ||*tags*^
-||*traffic*^
+!||*traffic*^
 @@||*trafficmanager.net^
 ||*event*^
 ||*engagement*^
 ||*analytic*^
 ||analytics.*^
-||*plus.*
+!||*plus.*
 ||clientstream*^
 ||em.*^
-||email.*^
+!||email.*^
 ||e.emails.*^
 ||tr.*^
 ||track-eu.*^
@@ -114,7 +116,9 @@
 ||ps.w.org^
 ||marketingcloudapis.com^
 ||streams.bestbuy.com^
-||smetrics.*^
+!||smetrics.*^
+||*metrics*^
+!||*metric*^
 
 ! Single Use
 @@||250analytics.americanexpress.com^
@@ -246,7 +250,6 @@
 ||d2941xw9rhwgkc.cloudfront.net^$important
 ||d2h8zr0m6mus4x.cloudfront.net^
 ||dclk-match.dotomi.com^
-||dgw.c10r.facebook.com^
 ||dianomi.com^
 ||dl.wechat.com^
 ||doubleverify.com^
