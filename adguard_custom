@@ -1,6 +1,6 @@
 ! Title: AdGuard - Custom
-! Last Modified: 2024-08-25T02:17:12+0000
-! Version: 2024.08/24
+! Last Modified: 2024-08-25T03:34:14+0000
+! Version: 2024.08/24b
 
 !! Facebook Trackers
 ! Essential Messenger Domains
@@ -21,10 +21,18 @@
 !||whatsapp.com^
 
 !! TikTok Trackers
-||tiktok.com^
-||tiktokv.com^
-||byteoversea.com^
-||snsdk.com^
+||*tiktok*^
+!||tiktokcdn*^
+!||*tiktokv*^
+||*snsdk.com^
+||*sgsnssdk.com^
+||*pstatp*^
+||*bytedns*^
+||*byteoversea*^
+||*bytedance*^
+||*byteimg*^
+||*bytecdn*^
+||*byted.*^
 
 !! Website Content 
 !||cedexis.net^
