@@ -1,9 +1,9 @@
 ! Title: Lockdown (iOS)
-! Last Modified: 2024-06-25T00:29:41+00:00
-! Version: 2.0.12
+! Last Modified: 2024-08-25T03:13:23+0000
+! Version: 2.0.13
 
 ||0pbxmo-useast2a.xzcs3zlph.com^
-||0pbxmo-useast2a.xzcs3zlph.com.edgesuite.net^
+||0pbxmo-useast2a.xzcs3zlph.com.edgesuite.ne^
 ||0pbxmo.xzcs3zlph.com^
 ||0pbxmo.xzcs3zlph.com.edgesuite.net^
 ||0rutzab.qfyf1toi.com^
@@ -11,7 +11,7 @@
 ||1uipkgq.mzfvozqybf.com^
 ||208.113.166.44^
 ||2leep.com^
-||2mdn.net^
+||2mdn.ne^
 ||33across.com^
 ||3dokby.toutiao50.com^
 ||3lift.com^
@@ -96,7 +96,7 @@
 ||activity.tiktok.com.edgekey.net^
 ||ad-lb-alisg.byteoversea.net^
 ||ad-lb-maliva.byteoversea.net^
-||ad.doubleclick.net^
+||ad.doubleclick.ne^
 ||ad.plus^
 ||ad.toutiao.com^
 ||ad.toutiao.com.bytedns.net^
@@ -799,7 +799,7 @@
 ||connekt.ai^
 ||consumable.com^
 ||consumertrack.com^
-||content-ad.net^
+||content-ad.ne^
 ||content.ad^
 ||contextweb.com^
 ||conversantmedia.com^
@@ -1045,7 +1045,7 @@
 ||f3-ttcdn-tos.pstatp.com^
 ||f3rsrpl.qfyf1toi.com^
 ||fabric.io^
-!||facebook.com^
+||facebook.com^
 ||fadedfcbcfb.temp.p23.tc.cdntip.com^
 ||fangchan.snssdk.com^
 ||fangchan.toutiao.com^
@@ -1054,7 +1054,7 @@
 ||fantasy-static.snssdk.com^
 ||fantasy3-activity-c.amemv.com^
 ||fantasy3-activity-c.amemv.com.w.cdngslb.com^
-!||fb.com^
+||fb.com^
 ||fb89a3b6273106930d55e9747de3d9d4.byteoversea.com^
 ||fcdnns1.compass.byteoversea.net^
 ||fcdnns2.compass.byteoversea.net^
@@ -1102,7 +1102,7 @@
 ||fusioncdn-lf.snssdk.com^
 ||fxj-boe.snssdk.com^
 ||fyber.com^
-||g.doubleclick.net^
+||g.doubleclick.ne^
 ||g.l.bytedns.net^
 ||gababhhcehc.temp.p23.tc.cdntip.com^
 ||gamaigroup.com^
@@ -1165,6 +1165,7 @@
 ||gplog-va.byteoversea.com^
 ||gplog.snssdk.com^
 ||grafana-boe.byted.org^
+||graph.facebook.com^
 ||grelationship-sg.snssdk.com^
 ||groundtruth.com^
 ||growintech.co^
@@ -1885,7 +1886,7 @@
 ||novel-lq.snssdk.com^
 ||novel.snssdk.com^
 ||nqzeqb.xzcs3zlph.com^
-||nr-data.net^
+||nr-data.ne^
 ||ns.s.bytetcdn.com^
 ||ns1.bsgslb.com^
 ||ns1.c.bytetcdn.com^
@@ -1921,7 +1922,7 @@
 ||open16-va.tiktokv.com^
 ||open16-va.tiktokv.com.edgekey.net^
 ||openx.com^
-||openx.net^
+||openx.ne^
 ||opera.com^
 ||ops.musical.ly^
 ||orange.isnssdk.com^
@@ -2324,7 +2325,7 @@
 ||picwebws.pstatp.com.wsglb0.com^
 ||pigeon.snssdk.com^
 ||pigeon.snssdk.com.w.kunluncan.com^
-||ping.chartbeat.net^
+||ping.chartbeat.ne^
 ||pixfuture.com^
 ||play.googleapis.com^
 ||plugco.in^
@@ -2722,7 +2723,7 @@
 ||sdfp-va.tiktokv.com.edgesuite.net^
 ||sdfp.snssdk.com^
 ||sdfp.snssdk.com.w.kunluncan.com^
-||sdk-api-v1.singular.net^
+||sdk-api-v1.singular.ne^
 ||sdk.appsflyer.com^
 ||sdk.foursquare.com^
 ||sdk.fra-01.braze.eu^
@@ -3008,7 +3009,7 @@
 ||starsp.toutiao.com^
 ||start.io^
 ||startapp.com^
-||static.doubleclick.net^
+||static.doubleclick.ne^
 ||static.muscdn.com^
 ||static.toutiao.com^
 ||stitchvideo.tv^
@@ -4141,4 +4142,4 @@
 ||zttvs.v.bsgslb.com^
 ||zttvu.v.bsgslb.com^
 ||zttvv.v.bsgslb.com^
-||zttvw.v.bsgslb.com^
+||zttvw.v.bsgslb.com
