@@ -1,6 +1,14 @@
 ! Title: AdGuard - Custom
-! Last Modified: 2024-08-25T03:34:14+0000
-! Version: 2024.08/24b
+! Last Modified: 2024-09-02T08:15:58+00:00
+! Version: 2024.09.02
+
+!!! ALLOWIST
+||stanford.edu^
+||wallet-api.urbanairship.com^
+||chaseoffers.chase.com^
+||gql-realtime.reddit.com^
+||tracking.narvar.com^
+
 
 !! Facebook Trackers
 ! Essential Messenger Domains
@@ -41,7 +49,9 @@
 !||pinterest.com^
 !||t.co^
 ||googletagservices.com^
+||app-analytics-services.com^
 ||minerva.devices.a2z.com^
+||googlehosted.*.google.com^
 
 ! E-mail, Trackers, Clicks, Analytics
 !@@||static.*^
