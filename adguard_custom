@@ -1,13 +1,17 @@
 ! Title: AdGuard - Custom
-! Last Modified: 2024-09-02T08:15:58+00:00
-! Version: 2024.09.02
+! Last Modified: 2024-11-29T01:51:05+0000
+! Version: 2024.11.28
 
 !!! ALLOWIST
 @@||stanford.edu^
 @@||wallet-api.urbanairship.com^
 @@||chaseoffers.chase.com^
 @@||gql-realtime.reddit.com^
-@@||tracking.narvar.com^
+@@||*.narvar.com^
+@@||capitaloneshopping.com^
+@@||yimg.com^
+@@||eventbrite.com^
+@@||eventstream.ring.com^
 
 
 !! Facebook Trackers
@@ -16,8 +20,8 @@
 @@||edge-mqtt.facebook.com^
 @@||rupload.facebook.com^
 @@||dgw.*.facebook.com^
-!@@||fbcdn.com^
-!@@||fbcdn.net^
+@@||fbcdn.com^
+@@||fbcdn.net^
 ||lookaside.facebook.com^
 ||netseer-ipaddr-assoc.*^
 !||gateway.instagram.com^
@@ -372,7 +376,7 @@
 ||rutarget.ru^
 ||s-static.ak.facebook.com.edgekey.net^
 ||s.pinimg.com^
-||s.yimg.com^$important
+!||s.yimg.com^$important
 ||sac-h-ct-m-fbx.fbsbx.com.online-metrix.net^
 ||salesloft.com^
 ||sb.scorecardresearch.com^
